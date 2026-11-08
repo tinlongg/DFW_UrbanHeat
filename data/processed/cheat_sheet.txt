@@ -1,0 +1,16 @@
+Current	                        New name	
+GEOID	                        GEOID 	
+COUNTYFP	                    county_fips	
+ALAND	                        land_m2	
+AWATER	                        water_m2	
+LST_F_mean	                    lst_f	
+NDVI_mean	                    ndvi	
+NDVI_count	                    pixel_count	
+B08201_001E	                    households	
+B08201_002E	                    hh_no_vehicle	
+B08201_calc_pctNoVehE	        pct_no_vehicle	
+B19049_001E	                    median_income	    
+From_DD_SRAM_LILATracts_1And10	food_desert	
+From_DD_SRAM_lapophalf	        pop_far_grocery	
+From0_stop_name	                nearest_station	
+Total_Miles	                    rail_miles	
