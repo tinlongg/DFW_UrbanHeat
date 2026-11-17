@@ -1,0 +1,6 @@
+Dataset,Source,Variables,Resolution / period
+Landsat 8/9 Collection 2 Level-2,NASA/USGS via Google Earth Engine,"Land surface temperature (ST_B10), NDVI (SR_B4, SR_B5)",30 m; summers (months 6–8) 2020–2024
+American Community Survey 5-year,U.S. Census Bureau,"Households without a vehicle (B08201), median household income (B19049)",Census tract; 20XX
+USDA Food Access Research Atlas,USDA Economic Research Service,"Low-income, low-access tract flag; population >½ mile from a supermarket",Census tract (2010 boundaries)
+"Rail stations (DART, Trinity Metro)",DFW Food & Transportation Access Map,Distance to nearest rail station,Station points
+Census tract boundaries (TIGER),U.S. Census Bureau,Study area tracts,2020 census tracts

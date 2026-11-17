@@ -1,0 +1,9 @@
+{
+  "n_tracts": 1087,
+  "temp_high_car_free_f": 118.4,
+  "temp_other_f": 117.1,
+  "share_car_free_in_hottest_pct": 25.1,
+  "share_all_hh_in_hottest_pct": 20.6,
+  "ndvi_lst_pearson_r": -0.8,
+  "degf_per_0_1_ndvi": -3.4
+}
